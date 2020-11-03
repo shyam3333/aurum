@@ -1,0 +1,418 @@
+body {
+  font-family: "Montserrat";
+}
+
+h3 {
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:#0C3653;
+}
+
+.kk{
+  font-size:2.25rem;
+}
+
+.kkx{
+  font-size: 2.25rem;
+  margin-top:50px;
+}
+p{
+  color: #8f8f8f;
+}
+
+h2{
+  color:#0C3653;
+}
+.card-text{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar-inverse .navbar-toggler{
+
+}
+
+
+.navbar-inverse .navbar-toggler .icon-bar{
+background-image: url("data:image/svg+xml;..");
+}
+.pricing-text{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-text{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.backfade{
+  position:absolute;
+  background-color:#0a4065;
+  opacity:0.49;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+.title-image{
+  background-image: url('../images/bb.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color:#255a7e;
+}
+
+.para{
+color:#0c3653;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.colored-section{
+  background-color:#ff4c68;
+
+}
+
+.white-section{
+  background-color:white;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #255a7e;
+    font-weight: bold;
+    font-family:open-sans;
+}
+/* navigation bar */
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color:#452268;
+}
+
+.footer-link li a{
+  color:#333;
+}
+
+.tab2 {
+  display: inline-block;
+   margin-left: 80px;
+ }
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light";
+  font-size: 1.2rem;
+
+}
+.features{
+  background-image: url('../images/ppp.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative;
+}
+
+.blur-effect{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background-color: #fff;
+opacity:0.9;
+}
+.copyright{
+  color:#444;
+}
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.zz{
+  color:#0b314b;
+}
+
+.Computer-Games{
+  float:left;
+  width:25%;
+  margin-right: 30px;
+  border-radius:100px 0px;
+  box-shadow:0px 47px 99px #c5c9cb;
+}
+
+.Table-Tennis{
+  float:right;
+  width:30%;
+  margin-left: 30px;
+  height:200px;
+  border-radius:10px;
+  box-shadow:0px 47px 99px #c5c9cb;
+}
+
+.pp{
+  color:white;
+  font-size: 2.7rem;
+  font-weight: bolder;
+  font-family:georgia;
+  margin:30px 0px;
+}
+
+.pp1{
+  color:white;
+  text-align: center;
+  margin:0 20%;
+}
+
+.btn2{
+  background-color: #F98169;
+  color:white;
+  font-size:0.875rem;
+  padding:1rem 3rem;
+  border-radius:0;
+  box-shadow:
+0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+0 12.5px 10px rgba(0, 0, 0, 0.06),
+0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+0 100px 80px rgba(255, 99, 71, 0.2)
+;
+}
+
+.hie{
+  border-radius:50%;
+  padding:1rem 1rem;
+  margin:34px 0 18px 0;
+}
+.hi{
+  border-radius:50%;
+  padding:1rem 1rem;
+}
+
+.bi{
+  width:100%;
+  background-image: url('../images/max.jpg');
+  position:relative;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.ci{
+  color:#000080;
+  font-weight: bolder;
+}
+.sub{
+  padding-top:3%;
+}
+/*Title Image */
+.titleimage {
+  width: 70%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.feature-box {
+  text-align: left;
+  padding: 0.5%;
+}
+
+.ham{
+  border-radius:75%;
+
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.img__img{
+  border-radius:20px;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+.dog {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.pricing-column{
+  padding:3% 2%;
+}
+.explore-food {
+  padding: 3% 10%;
+}
+
+.zero-padding{
+padding:0;
+}
+
+.food{
+  margin-bottom:20px;
+}
+@media (max-width:1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
+.new {
+  font-size: 3.5rem;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.iconss {
+  margin: 20px 10px;
+}
+
+.card{
+  box-shadow:
+0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+0 12.5px 10px rgba(0, 0, 0, 0.06),
+0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+0 100px 80px rgba(0, 0, 0, 0.12)
+;
+}
+/* relevant styles */
+.img__wrap {
+  position: relative;
+  cursor:pointer;
+}
+
+.img__description {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(10, 64, 101, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  font-family: "Montserrat";
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+  display:flex;
+  flex-direction:column;
+  text-align:left;
+  justify-content: flex-end;
+  border-radius:20px;
+}
+
+.hover-heading{
+  color:#fff;
+  margin:10px 20px;
+}
+
+.hover-description{
+  color:#fff;
+  margin:0 20px;
+  font-size:0.825rem;
+}
+
+.rightarrow{
+  background-color:#f98169;
+  border-radius: 0 0 20px 0;
+  width:50px;
+  height:30px;
+  line-height: 30px;
+  text-align: center;
+  align-self: flex-end;
+
+}
+.img__wrap:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+}
+
+.input-box{
+  padding:1rem 3rem;
+}
+.footer{
+  background-image: url('../images/ll.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+#press {
+  text-align: center;
+  padding-bottom:3%;
+}
+
+#pricing {
+  padding: 50px;
+  text-align: center;
+}
+#package {
+  padding: 50px;
+  text-align: center;
+}
+
+#testimonials {
+  text-align: center;
+}
+
+#cta {
+  text-align: center;
+  padding: 3% 5%;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
