@@ -160,20 +160,24 @@ opacity:0.9;
 }
 
 .Computer-Games{
-  float:left;
-  width:25%;
+  margin-bottom:50px;
+  width:100%;
   margin-right: 30px;
   border-radius:100px 0px;
   box-shadow:0px 47px 99px #c5c9cb;
 }
 
 .Table-Tennis{
-  float:right;
-  width:30%;
+  margin-top:10px;
+  width:100%;
   margin-left: 30px;
   height:200px;
   border-radius:10px;
   box-shadow:0px 47px 99px #c5c9cb;
+}
+
+.chicken{
+  margin-bottom: 20px;
 }
 
 .pp{
