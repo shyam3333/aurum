@@ -72,10 +72,12 @@ background-image: url("data:image/svg+xml;..");
   font-size: 3.5rem;
   line-height: 1.5;
   color:#255a7e;
+  text-align:left;
 }
 
 .para{
 color:#0c3653;
+  text-align:left;
 }
 
 .container-fluid {
