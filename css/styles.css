@@ -9,6 +9,11 @@ h3 {
   color:#0C3653;
 }
 
+
+.box{
+  text-align: left;
+}
+
 .kk{
   font-size:2.25rem;
 }
@@ -42,6 +47,13 @@ background-image: url("data:image/svg+xml;..");
   font-family: "Montserrat-bold";
   font-size: 3rem;
   line-height: 1.5;
+}
+
+.explore{
+  margin-top:30px;
+}
+.meat{
+  margin-bottom:30px;
 }
 
 .testimonial-text{
